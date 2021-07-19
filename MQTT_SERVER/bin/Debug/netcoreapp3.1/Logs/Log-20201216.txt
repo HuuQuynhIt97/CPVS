@@ -1,0 +1,7 @@
+2020-12-16T09:47:10.1366532+07:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-12-16T09:47:10.1542058+07:00  [INF] Hosting environment: "Production" (c3307c92)
+2020-12-16T09:47:10.1544192+07:00  [INF] Content root path: "F:\mqtt\project\MQTT_SERVER\bin\Debug\netcoreapp3.1" (b5d60022)
+2020-12-16T09:47:14.5230931+07:00  [INF] Application is shutting down... (90f52c38)
+2020-12-16T09:47:19.4427801+07:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-12-16T09:47:19.4597618+07:00  [INF] Hosting environment: "Production" (c3307c92)
+2020-12-16T09:47:19.4598998+07:00  [INF] Content root path: "F:\mqtt\project\MQTT_SERVER\bin\Debug\netcoreapp3.1" (b5d60022)
